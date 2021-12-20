@@ -28,7 +28,7 @@ python pricing.py
 Then enter your inputs and your output should show you the call price and the put price for the option
 ***
 
-**Output Example**:
+<!-- **Output Example**:
 `
 Enter Spot Price S(0): 230
 `
@@ -49,7 +49,7 @@ Option Call Price: 7.3750780644052725
 `
 `
 Option Put Price: 21.20255607148843
-`
+` -->
 
 
 
